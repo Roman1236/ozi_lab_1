@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: C:\Users\ivik2\IdeaProjects\ozi_lab_1\src
+
